@@ -1,0 +1,14 @@
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\bin\Debug\net6.0\Student.ConsoleApp.exe
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\bin\Debug\net6.0\Student.ConsoleApp.deps.json
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\bin\Debug\net6.0\Student.ConsoleApp.runtimeconfig.json
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\bin\Debug\net6.0\Student.ConsoleApp.dll
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\bin\Debug\net6.0\Student.ConsoleApp.pdb
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\Student.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\Student.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\Student.ConsoleApp.AssemblyInfo.cs
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\Student.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\Student.ConsoleApp.dll
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\refint\Student.ConsoleApp.dll
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\Student.ConsoleApp.pdb
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\Student.ConsoleApp.genruntimeconfig.cache
+C:\Users\ETR-PC\source\repos\StudentApp\Student.ConsoleApp\obj\Debug\net6.0\ref\Student.ConsoleApp.dll
