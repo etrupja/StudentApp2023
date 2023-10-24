@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ETR-PC\\source\\repos\\StudentApp\\Student.ConsoleApp\\Student.ConsoleApp.csproj": {}
+    "C:\\Beder\\StudentApp2023\\Student.ConsoleApp\\Student.ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ETR-PC\\source\\repos\\StudentApp\\Student.ConsoleApp\\Student.ConsoleApp.csproj": {
+    "C:\\Beder\\StudentApp2023\\Student.ConsoleApp\\Student.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ETR-PC\\source\\repos\\StudentApp\\Student.ConsoleApp\\Student.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Beder\\StudentApp2023\\Student.ConsoleApp\\Student.ConsoleApp.csproj",
         "projectName": "Student.ConsoleApp",
-        "projectPath": "C:\\Users\\ETR-PC\\source\\repos\\StudentApp\\Student.ConsoleApp\\Student.ConsoleApp.csproj",
+        "projectPath": "C:\\Beder\\StudentApp2023\\Student.ConsoleApp\\Student.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\ETR-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ETR-PC\\source\\repos\\StudentApp\\Student.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Beder\\StudentApp2023\\Student.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
